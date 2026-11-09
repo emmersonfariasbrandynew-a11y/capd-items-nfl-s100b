@@ -1,0 +1,2 @@
+# Preserve every file byte for byte: the runner verifies SHA-256 checksums of scripts and data.
+* -text

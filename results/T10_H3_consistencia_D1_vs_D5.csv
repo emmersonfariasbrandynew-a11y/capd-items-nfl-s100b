@@ -1,0 +1,17 @@
+"Item","Dominio","Biomarcador","n","rho_D1","rho_D5","Delta_rho","IC95_bootstrap_t","R_valido"
+"Q1","Contato visual com o cuidador","NfL",34,"0.761","0.649","0.111","-0.060 a 0.320",5000
+"Q2","Movimentos com proposito","NfL",34,"0.820","0.182","0.638","0.292 a 1.076",5000
+"Q3","Percepcao do ambiente","NfL",34,"0.169","-0.233","0.403","-0.213 a 0.963",5000
+"Q4","Comunicacao de necessidades","NfL",34,"-0.145","-0.300","0.155","-0.253 a 0.586",5000
+"Q5","Inquietacao","NfL",34,"0.756","0.001","0.755","0.436 a 1.120",5000
+"Q6","Inconsolabilidade","NfL",34,"0.783","0.402","0.381","0.132 a 0.808",5000
+"Q7","Hipoatividade / interacao reduzida","NfL",34,"0.649","0.732","-0.083","-0.369 a 0.200",5000
+"Q8","Latencia de resposta","NfL",34,"0.414","-0.106","0.520","0.119 a 0.929",5000
+"Q1","Contato visual com o cuidador","S100B",34,"0.751","0.721","0.030","-0.103 a 0.189",5000
+"Q2","Movimentos com proposito","S100B",34,"0.722","0.233","0.490","0.176 a 0.876",5000
+"Q3","Percepcao do ambiente","S100B",34,"0.032","-0.178","0.210","-0.326 a 0.704",5000
+"Q4","Comunicacao de necessidades","S100B",34,"-0.234","-0.184","-0.049","-0.537 a 0.427",5000
+"Q5","Inquietacao","S100B",34,"0.692","0.028","0.664","0.335 a 1.026",5000
+"Q6","Inconsolabilidade","S100B",34,"0.663","0.418","0.246","0.013 a 0.570",5000
+"Q7","Hipoatividade / interacao reduzida","S100B",34,"0.658","0.700","-0.042","-0.288 a 0.214",5000
+"Q8","Latencia de resposta","S100B",34,"0.218","-0.126","0.344","-0.067 a 0.730",5000

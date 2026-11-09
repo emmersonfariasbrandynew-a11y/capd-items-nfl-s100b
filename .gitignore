@@ -1,0 +1,5 @@
+# Restricted dataset: deposited in Zenodo under restricted access only; never commit to GitHub
+data_restricted/
+*.xlsx
+# Run outputs (individual-level files are produced locally and never committed)
+code/output/

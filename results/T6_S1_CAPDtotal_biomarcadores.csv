@@ -1,0 +1,5 @@
+"Comparacao","n","rho","IC95","Tipo_IC","p_bruto","p_Holm","Holm_sig","Magnitude"
+"CAPD total D1 x NfL D1",34,"0.755","0.587 a 0.861","bca","<0.001","<0.001","sim","grande"
+"CAPD total D1 x S100B D1",34,"0.697","0.350 a 0.853","bca","<0.001","<0.001","sim","grande"
+"CAPD total D5 x NfL D5",34,"0.312","-0.092 a 0.601","bca","0.073","0.092","nao","moderada"
+"CAPD total D5 x S100B D5",34,"0.345","-0.068 a 0.660","bca","0.046","0.092","nao","moderada"

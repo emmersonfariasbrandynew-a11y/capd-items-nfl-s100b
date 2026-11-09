@@ -1,0 +1,5 @@
+"","G1_free","G2_delirium","G3_coma","Sum"
+"G1_free",9,5,0,14
+"G2_delirium",1,19,0,20
+"G3_coma",0,0,11,11
+"Sum",10,24,11,45
